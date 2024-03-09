@@ -1,10 +1,10 @@
 # Digital-Back-Office-Backend-Assignment
 This repo consist of both console log application and can also be checked using multiple test functions
 
-#Console log Application
+__Console log Application__
 Run the main file 
 
-#Test application<br>
+__Test application__<br>
 cd test<br>
 python3 -m venv venv<br>
 venv/scripts/activate<br>
