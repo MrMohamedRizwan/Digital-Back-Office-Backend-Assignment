@@ -3,11 +3,11 @@ This repo consist of both console log application and can also be checked using 
 
 Run the main file for Console log Application 
 
-For Test application\n
-cd test\n
-python3 -m venv venv\n
-venv/scripts/activate\n
-pip install -r requirements.txt\n
-python3 main.py\n
+For Test application<br>
+cd test<br>
+python3 -m venv venv<br>
+venv/scripts/activate<br>
+pip install -r requirements.txt<br>
+python3 main.py<br>
 
 And run the test_rover 
